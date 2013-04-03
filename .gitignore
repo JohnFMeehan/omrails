@@ -20,4 +20,7 @@ doc/
 .DS_Store
 .idea
 
+#Ignore paperclip uploaded files
+/public/system
+
 # Ignore MAC DS_Store
