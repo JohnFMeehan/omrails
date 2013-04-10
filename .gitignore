@@ -24,3 +24,6 @@ doc/
 /public/system
 
 # Ignore MAC DS_Store
+
+# Ignore sampleimages
+/sampleimages
