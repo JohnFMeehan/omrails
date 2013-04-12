@@ -22,7 +22,6 @@ doc/
 
 #Ignore paperclip uploaded files
 /public/system
-/public
 
 # Ignore MAC DS_Store
 
